@@ -1,10 +1,9 @@
 # Neural-Nets
 Neural Networks from scratch
 
-File Description:
+File Description:<br />
+nn.py : implementation with base libraries<br />
+nn_numpy.py : implementation with numpy<br />
 
-nn.py : implementation with base libraries
-nn_numpy.py : implementation with numpy
-
-Explanation: 
+Explanation:<br /> 
 https://docs.google.com/document/d/1l71PI92FlfJoxu5T2jB15HFVMsRKrWX3vGvbZuuZsyM/edit?usp=sharing
